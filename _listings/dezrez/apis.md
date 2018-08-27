@@ -7,11 +7,81 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-
 x-kinRank: "7"
 x-alexaRank: "385559"
 tags: Chain
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/chain/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Dezrez.Rezi.Client.Api - Add node to progression chain
+  x-api-slug: apiprogressionchainidaddchainnode-post
+  description: Add node to progression chain.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chain/master/_listings/dezrez/apiprogressionchainidaddchainnode-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Add node to progression chain
+  x-api-slug: apiprogressionchainidaddchainlink-post
+  description: Add node to progression chain.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chain/master/_listings/dezrez/apiprogressionchainidaddchainlink-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Add node to progression chain
+  x-api-slug: apiprogressionchainiddeletenode-put
+  description: Add node to progression chain.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chain/master/_listings/dezrez/apiprogressionchainiddeletenode-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Add node to progression chain
+  x-api-slug: apiprogressionchainiddeletechainlink-put
+  description: Add node to progression chain.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chain/master/_listings/dezrez/apiprogressionchainiddeletechainlink-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Add node to progression chain
+  x-api-slug: apiprogressionchainidresetchain-put
+  description: Add node to progression chain.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chain/master/_listings/dezrez/apiprogressionchainidresetchain-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Add item to sales progression chain
+  x-api-slug: apiprogressionchainidadditem-post
+  description: Add item to sales progression chain.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chain/master/_listings/dezrez/apiprogressionchainidadditem-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Update item in sales progression chain
+  x-api-slug: apiprogressionchainidupdateitem-put
+  description: Update item in sales progression chain.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chain/master/_listings/dezrez/apiprogressionchainidupdateitem-put-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez
